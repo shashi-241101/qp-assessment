@@ -35,6 +35,7 @@ Setup (Using Docker - Recommended)
 Clone the Repository:
 
 git clone https://github.com/shashi-241101/qp-assessment.git
+
 cd qp-assessment
 
 Setup Configurations:
@@ -68,6 +69,7 @@ Setup (Without Docker)
 Clone the Repository:
 
 git clone https://github.com/shashi-241101/qp-assessment.git
+
 cd qp-assessment
 
 Install Dependencies:
